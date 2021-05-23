@@ -1,12 +1,12 @@
 - <A HREF="https://mp.weixin.qq.com/s/vxF14s6Brg-WEVghYnzhBA"  >GitHub 上又一开源力作！中国小伙开发最新旧照片修复技术</A>
 - <A HREF="http://mt.sohu.com/20160407/n443539407.shtml"  >GitHub 中国区前 100 名到底是什么样的人</A>
 - <A HREF="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137583770360579bc4b458f044ce7afed3df579123eca000"  >搭建Git服务器</A>
-- <A HREF="http://www.cnblogs.com/trying/archive/2012/06/28/2863758.html"  >搭建Git本地服务器 - ifeixiang </A>
+- <A HREF="http://www.cnblogs.com/trying/archive/2012/06/28/2863758.html"  >搭建Git本地服务器 </A>
 - <A HREF="http://blog.csdn.net/xyzchenxiaolin/article/details/51851469"  >让gitlab中的PostgreSQL能够远程连接管理 </A>
 - <A HREF="http://www.jianshu.com/p/465830080ea9"  >HEXO+Github </A>
-- <A HREF="https://mp.weixin.qq.com/s/usWz-XT0q2ciKfs5nxyhUQ"  >GitHub 高星项目，帮你在 Linux 上运行 Mac OS 软件！</A>
+- <A HREF="https://mp.weixin.qq.com/s/usWz-XT0q2ciKfs5nxyhUQ"  >GitHub 高星项目，帮你在 Linux 上运行 Mac OS 软件</A>
 - <A HREF="https://blog.csdn.net/taiyangdao/article/details/78484623"  >Git的gitattributes文件详解</A>
 - <A HREF="https://blog.csdn.net/u014175572/article/details/55510825"  >github获取token</A>
-- <A HREF="https://blog.csdn.net/luchengtao11/article/details/82531044"  >.git文件过大，github仓库瘦身_聆听风雨的博客</A>
+- <A HREF="https://blog.csdn.net/luchengtao11/article/details/82531044"  >.git文件过大，github仓库瘦身</A>
 - <A HREF="https://blog.csdn.net/github_37603222/article/details/70833565"  >UEFI 下 Windows 10 安装 Ubuntu 双系统</A>
-- <A HREF="https://mp.weixin.qq.com/s/j2x03IrJKKphnOrYt0i_ew"  >浏览 GitHub 太卡了？教你两招！</A>
+- <A HREF="https://mp.weixin.qq.com/s/j2x03IrJKKphnOrYt0i_ew"  >浏览 GitHub 太卡了？教你两招</A>
