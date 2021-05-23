@@ -13,6 +13,6 @@
  - <A HREF="https://mp.weixin.qq.com/s/MlHoleYJxaGQ3u8kg6Xb5A"  >【TCP/IP详解】TCP详解</A>
  - <A HREF="https://www.cnblogs.com/kcxg/p/11188047.html"  >更换pip源到国内镜像 </A>
  - <A HREF="https://www.zhihu.com/question/31766172"  >IP地址为什要分类？就是a类,b类,c类 </A>
- - <A HREF="https://blog.csdn.net/renfeigui0/article/details/100038237"  >IP地址分类（A、B、C、D、E </A>
+ - <A HREF="https://blog.csdn.net/renfeigui0/article/details/100038237"  >IP地址分类 A、B、C、D、E </A>
  - <A HREF="http://www.cnblogs.com/yuzhongwusan/p/3677955.html"  >HTML5安全：CORS（跨域资源共享）简介 </A>
  - <A HREF="https://blog.csdn.net/qq_39364032/article/details/79744309"  >HTML5中的websocket实现直播 </A>
