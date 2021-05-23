@@ -10,3 +10,4 @@
 - <A HREF="https://blog.csdn.net/luchengtao11/article/details/82531044"  >.git文件过大，github仓库瘦身</A>
 - <A HREF="https://blog.csdn.net/github_37603222/article/details/70833565"  >UEFI 下 Windows 10 安装 Ubuntu 双系统</A>
 - <A HREF="https://mp.weixin.qq.com/s/j2x03IrJKKphnOrYt0i_ew"  >浏览 GitHub 太卡了？教你两招</A>
+
