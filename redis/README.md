@@ -1,0 +1,33 @@
+ -  <A HREF="https://www.jb51.net/article/136322.htm"  >Redis中3种特殊的数据类型（BitMap、Geo和HyperLogLog）</A>
+ -  <A HREF="http://blog.csdn.net/younger_z/article/details/51692740"  >用最少的机器支撑万亿级访问，微博6年Redis优化历程 </A>
+ -  <A HREF="https://blog.csdn.net/qq_42815754/article/details/82912130"  >redis集群搭建 </A>
+ -  <A HREF="http://www.pythontab.com/html/2014/pythonweb_1224/937.html"  >Django使用redis缓存服务器 </A>
+ -  <A HREF="http://www.jianshu.com/p/68d214f09032"  >Redis4.0.0 安装及配置 </A>
+ -  <A HREF="http://blog.csdn.net/younger_z/article/details/51692720"  >Redis实战：如何构建类微博的亿级社交平台 </A>
+ -  <A HREF="http://www.cnblogs.com/me115/p/3482783.html"  >Redis 在新浪微博中的应用 </A>
+ -  <A HREF="http://www.cnblogs.com/haython/p/3529112.html"  >redis实现有序的消息队列 </A>
+ -  <A HREF="https://www.cnblogs.com/linxiyue/p/10955533.html"  >Redis中的LFU算法 </A>
+ -  <A HREF="https://blog.csdn.net/qq_42885587/article/details/106806868"  >Redis6新特性 </A>
+ -  <A HREF="https://zhuanlan.zhihu.com/p/95462736?utm_source=wechat_timeline"  >挑战Redis单实例内存最大极限，“遭遇”NUMA陷阱  </A>
+ -  <A HREF="https://zhuanlan.zhihu.com/p/118450227"  >Redis6 多线程剖析  </A>
+ -  <A HREF="https://www.cnblogs.com/zqq1234/p/12930918.html"  >redis6的简单使用  </A>
+ -  <A HREF="https://www.cnblogs.com/-wenli/p/12777703.html"  >Redis实现消息队列的4种方案  </A>
+ -  <A HREF="https://blog.csdn.net/xx123698/article/details/108451122"  >redis的消息队列防止数据丢失的方法 </A>
+ -  <A HREF="https://thinkwon.blog./article/details/103522351"  >Redis面试题（2020最新版） </A>
+ - <A HREF="https://mp.weixin.qq.com/s?__biz=MzIyNTM4ODI0OA==&mid=2247484200&idx=1&sn=030c6d928c9582d0bc24d2a4d0fee091&chksm=e801309fdf76b9894f6177c67aa984ffae3b649ded80f3e1d3f3149da7222f29237cc40a9521&mpshare=1&scene=1&srcid=1213LPlh36pEmbxlrlmJtGdk&sharer_sharetime=1576200706053&sharer_shareid=e00cff1d1f36f627a7f321999ff3bd0d&key=dcfc7b6559405d7cf917bdf236724786f1cee647aecaecce0042439e9984be8985b5e61b00b87a1c4d183e1438c40779b1bb36354a0b36e5d2c95b61baa5a37594fbc170a3608fed57f90ac1001eee50&ascene=1&uin=NTU1MTkzNzYw&devicetype=Windows+7&version=62070158&lang=zh_CN&exportkey=AfMwN1NCu6inAxipjJ2gYj0%3D&pass_ticket=JgWw1YBX4L9M2tBQSwc%2B%2FUH%2F5e7550yvi%2B3QBlObjwe5LdrR7eMn7m73bCFXDr3M"  >借 redis cluster 集群，聊一聊集群中数据分布算法</A>
+ - <A HREF="https://www.cnblogs.com/guolianyu/p/10249687.html"  >Redis高可用之哨兵模式Sentinel配置与启动（五）  </A>
+ - <A HREF="https://www.cnblogs.com/guolianyu/p/10239913.html"  >Redis高可用之主从复制实践 - 四 </A>
+ - <A HREF="https://www.jianshu.com/p/cc379427ef9d"  >redis zset内部实现 </A>
+ - <A HREF="http://zhangtielei.com/posts/blog-redis-skiplist.html"  >Redis内部数据结构详解(6)——skiplist</A>
+ - <A HREF="https://thinkwon.blog./article/details/103400250"  >阿里云Redis开发规范学习总结</A>
+ - <A HREF="https://blog.csdn.net/wuyujin1997/article/details/106267676/"  >redis key 键名称中的冒号 : 命名空间层次的表示 </A>
+ - <A HREF="https://blog.csdn.net/HeliosJ/article/details/103258441"  > Redis根据命名空间分组存储数据 </A>
+ - <A HREF="http://zhangtielei.com/posts/blog-redlock-reasoning.html"  >基于Redis的分布式锁到底安全吗（上）</A>
+ - <A HREF="http://zhangtielei.com/posts/blog-redlock-reasoning-part2.html"  >基于Redis的分布式锁到底安全吗（下）</A>
+ - <A HREF="https://www.cnblogs.com/zhoujinyi/p/11606935.html"  >Redis 5.0 redis-cli --cluster help说明</A>
+ - <A HREF="https://blog.csdn.net/aloneno/article/details/96370167"  > Redis简单集群搭建及(error)NOAUTH Authentication required等问题的解决方法</A>
+ - <A HREF="https://blog.csdn.net/yzf279533105/article/details/110873427"  >ubuntu16.04安装，使用redis布隆过滤器示例 </A>
+ - <A HREF="https://mp.weixin.qq.com/s/_rMBe4TJZV3IerTlejimYw"  >阿里面试这样问：redis 为什么把简单的字符串设计成 SDS </A>
+ - <A HREF="https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961313&idx=1&sn=60d74fdbc1fb1dae696e0f4997c09f21&chksm=bd2d023d8a5a8b2bba2f8a3807492771a442495d27323d8dbfae670508fd0c46780308a9280d&scene=21#wechat_redirect"  >缓存，究竟是淘汰，还是修改</A>
+ - <A HREF="https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961341&idx=1&sn=e27916b8e96bd771c72c055f1f53e5be&chksm=bd2d02218a5a8b37ecffd78d20b65501645ac07c7ba2eb65b7e501a3eb9de023febe63bfdb36&scene=21#wechat_redirect"  >究竟先操作缓存，还是数据库 </A>
+ 
