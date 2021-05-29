@@ -1,0 +1,68 @@
+ - Part One
+     - <A HREF="http://www.server110.com/linux/201404/8955.html" >Ubuntu系统如何查看硬件配置信息 </A>
+     - <A HREF="https://blog.csdn.net/u010429286/article/details/79219230"  >如何在Ubuntu 16.04上增加Swap分区 </A>
+     - <A HREF="https://www.cnblogs.com/defifind/p/9285456.html"  >ubuntu-server-18.04 设置开机启动脚本 </A>
+     - <A HREF="https://www.cnblogs.com/java-synchronized/p/6935711.html"  >Ubuntu中安装FTP 服务器自己踩得坑 </A>
+     - <A HREF="https://cloud.tencent.com/developer/article/1439663"  >ubuntu 安装 elasticsearch</A>
+     - <A HREF="https://www.howtoing.com/how-to-install-elasticsearch-logstash-and-kibana-elastic-stack-on-ubuntu-18-04" >如何在Ubuntu 18.04上安装Elasticsearch，Logstash和Kibana </A>
+     - <A HREF="https://ywnz.com/linuxjc/5099.html"  >在Ubuntu操作系统上禁用IPv6和重新启用IPv6的方法 </A>
+     - <A HREF="http://askubuntu.com/questions/15433/unable-to-lock-the-administration-directory-var-lib-dpkg-is-another-process"  >apt - Unable to lock the administration directory (/var/lib/dpkg/) is another process using it </A>
+     - <A HREF="https://blog.csdn.net/weixin_42001089/article/details/81865101"  >ubuntu18.04安装Hadoop </A>
+     - <A HREF="http://www.cnblogs.com/cike8899/p/5954553.html"  >ubuntu 16.04 安装nodejs </A>
+     - <A HREF="http://blog.sina.com.cn/s/blog_6c9d65a1010145st.html"  >ubuntu server设置时区和更新时间 </A>
+     - <A HREF="https://blog.csdn.net/yaoyut/article/details/78003061"  >用UltraISO制作Ubuntu16.04 U盘启动盘 </A>
+     - <A HREF="https://www.jianshu.com/p/38e6be8efecf"  >win10安装ubuntu18.04 LTS双系统 </A>
+     - <A HREF="https://blog.csdn.net/zouguo1211/article/details/81200628"  >Ubuntu18.04与WIN10双系统（USB EFI方式安装—Grub2.0引导修复） </A>
+     - <A HREF="http://www.linuxidc.com/Linux/2016-05/131375.htm"  >Ubuntu系统安装SMPlayer 16.4 开源播放器 </A>
+     - <A HREF="http://blog.csdn.net/kucss/article/details/6832191"  >rails 3遇到 Could not find a JavaScript runtime execjs错误（ubuntu） </A>
+     - <A HREF="http://jingyan.baidu.com/article/8ebacdf02f552b49f65cd5c9.html"  >允许root用户登录ssh </A>
+     - <A HREF="http://www.cnblogs.com/vactor/p/5048487.html"  >在ubuntu中安装photoshop cs6 </A>
+     - <A HREF="http://www.linuxdiyf.com/linux/17834.html"  >ubuntu安装原生迅雷，让下载成为简单 </A>
+     - <A HREF="http://www.bubuko.com/infodetail-945973.html"  >Ubuntu14.04 (64)位系统安装genymotion模拟器和集成到android studio </A>
+     - <A HREF="http://jingyan.baidu.com/article/6079ad0e84cd9728ff86dbc1.html"  >Ubuntu在打开文件夹时， 如何默认显示隐藏文件 </A>
+     - <A HREF="http://blog.chinaunix.net/xmlrpc.php?r=blog/article&uid=20769015&id=3906285"  >Linux下BT下载软件 deluge 安装及简单使用  </A>
+     - <A HREF="http://blog.163.com/snihje_01/blog/static/83904159200952851211181/"  >Ubuntu下声卡驱动解决方法alsa </A>
+     - <A HREF="http://www.linuxidc.com/Linux/2014-04/100499.htm"  >Ubuntu 14.04 安装 WPS </A>
+     - <A HREF="https://linux.cn/article-3489-1.html"  >Ubuntu 14.04中修复默认启用HDMI后没有声音的问题 </A>
+     - <A HREF="http://tieba.baidu.com/p/3350327342"  > ubuntu下音乐播放器的玩法 </A>
+     - <A HREF="http://blog.csdn.net/whatnamecaniuse/article/details/60754546"  >用tar进行Centos系统备份与恢复教程 </A>
+     - <A HREF="http://blog.csdn.net/tham_/article/details/50402109"  >Centos（Linux）系统备份与还原 </A>
+     - <A HREF="https://blog.csdn.net/ever_peng/article/details/80161863"  > ubuntu 安装 libnl 的依赖库以及aircrack </A>
+     - <A HREF="https://blog.csdn.net/qq_36318271/article/details/88796706"  >CentOS下搭建Hadoop输入start-dfs.sh报错Permission denied问题的解决 </A>
+     - <A HREF="https://www.cnblogs.com/wkfvawl/p/11046204.html"  >win7系统下安装Ubuntu18.04组成双系统 </A>
+     - <A HREF="https://blog.csdn.net/ugfffj/article/details/83931459"  > 解决Windows与Ubuntu双系统时间同步问题 </A>
+     - <A HREF="https://blog.csdn.net/blueheart20/article/details/81566903"  >CentOS上安装Selenium和google Driver的过程以及问题记录 </A>
+     
+     
+ - Part Two
+     - <A HREF="http://www.jb51.net/article/57011.htm"  >linux系统中rsync+inotify实现服务器之间文件实时同步 </A>
+     - <A HREF="http://www.jb51.net/article/41196.htm"  >通过rsync+inotify实现数据的实时备份配置 </A>
+     - <A HREF="https://zhidao.baidu.com/question/1989669309560823347.html"  >Apache ab 压力测试 </A>
+     - <A HREF="http://www.111cn.net/sys/linux/72590.htm"  >Linux系统unzip解压后中文名乱码解决方法 </A>
+     - <A HREF="http://blog.csdn.net/leshami/article/details/50144179"  >Linux下编译安装Apache httpd 2.4 </A>
+     - <A HREF="http://blog.csdn.net/ppt0501/article/details/42804609"  >linux文件双向同步（unison） </A>
+     - <A HREF="http://blog.csdn.net/dazhi_100/article/details/38513053"  >在 Linux 平台上安装和配置 Ruby on Rails 详解 </A>
+     - <A HREF="http://hechonghua.com/notepadqq-notepad-for-linux/"  >Notepadqq-Linux下的Notepad++  </A>
+     - <A HREF="https://blog.csdn.net/github_38358734/article/details/70224775"  >Linux系统间文件双向同步搭建Unison版 </A>
+     - <A HREF="https://cloud.tencent.com/developer/article/1333957"  >Linux中inotify+unison实现数据双向(多向)实时同步 </A>
+     - <A HREF="https://mp.weixin.qq.com/s/rrcDeEL7FqXM7Hrw5EzaKA"  >Linux的进程间通信-管道</A>
+     - <A HREF="https://developer.aliyun.com/ask/93901?spm=a2c6h.13159736"  >Linux如何手动开启aegis插件进程 </A>
+     - <A HREF="https://www.cnblogs.com/rzstrong/p/8529917.html"  >查看linux占用内存/CPU最多的进程  </A>
+     - <A HREF="https://www.jianshu.com/p/3f8fbacf753c"  >Linux上用curl 查看请求头和响应头 </A>
+     - <A HREF="https://www.cnblogs.com/wade-luffy/p/6589254.html"  >Docker核心实现技术 </A>
+     - <A HREF="https://blog.csdn.net/rong09_13/article/details/79233956"  >Linux下七种文件类型、文件属性及其查看方法 </A>
+     - <A HREF="https://blog.csdn.net/qq_35733751/article/details/80843589"  > 稀疏矩阵的三元组表示方式 </A>
+     - <A HREF="https://blog.csdn.net/cjmiou/article/details/41152195"  >在linux中下载迅雷链接(thunder://) </A>
+     - <A HREF="https://thinkwon.blog.csdn.net/article/details/104588679"  >Linux面试题（2020最新版） </A>
+     - <A HREF="https://blog.csdn.net/renlonggg/article/details/82978253"  >linux 7z压缩、解压命令 </A>
+     - <A HREF="https://blog.csdn.net/s735819795/article/details/80497601"  >linux搭建SVN服务器 </A>
+     - <A HREF="http://www.colored.cn/website/12.html" >解决 linux Call to undefined function imagecreatefromjpeg()函数未定义 </A>
+     - <A HREF="https://blog.csdn.net/liangyely/article/details/103860105"  > 深度deep Linux系统软件应用商店下载地址 </A>
+     - <A HREF="https://www.cnblogs.com/ismallboy/p/6785347.html"  >linux 修改用户主目录 </A>
+     - <A HREF="https://help.aliyun.com/document_detail/25426.html?spm=a2c4g.11186623.2.20.47e9443aRhngLD#concept-jl1-qzd-wdb"  >Linux格式化数据盘 </A>
+     - <A HREF="https://www.cnblogs.com/slf-L/p/12058088.html"  >压缩法备份Linux系统文件 </A>
+     - <A HREF="https://www.cnblogs.com/lutt/p/13579753.html"  >linux远程连接windows并执行cmd命令 </A>
+     - <A HREF="https://blog.csdn.net/professorman/article/details/108520730"  > Ubuntu20.04安装zabbix5.0 </A>
+     - <A HREF="https://blog.csdn.net/weixin_42185136/article/details/90764908"  >ubuntu安装geckodriver 和 firefox </A>
+     - <A HREF="http://blog.csdn.net/wawa8899/article/details/52743861"  >CentOS 安装 supervisor 进程管理工具 </A>
+     
