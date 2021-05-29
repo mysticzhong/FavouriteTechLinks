@@ -1,0 +1,87 @@
+ - Part One
+    - <A HREF="http://www.tuicool.com/articles/aqABJz"  >新建以MySql为数据库的Rails项目 </A>
+    - <A HREF="http://blog.csdn.net/cleanfield/article/details/6339428"  >新浪微博，腾讯微博mysql数据库主表猜想 </A>
+    - <A HREF="http://help.dedecms.com/install-use/server/2011/0803/969.html"  >Linux下如何启用MySQL数据库远程访问</A>
+    - <A HREF="http://yuweibing.blog.51cto.com/3879355/1744390"  >mysql 之 主从同步（单向同步和双向同步） </A>
+    - <A HREF="https://blog.csdn.net/iehadoop/article/details/82961311"  >Ubuntu 18.04安装MySQL8.0数据库  </A>
+    - <A HREF="https://.com/a/1190000003716617?utm_source=tag-newest"  >MySQL读写分离介绍及搭建 </A>
+    - <A HREF="https://stackoverflow.com/questions/36228836/syntax-error-or-access-violation-1055-expression-8-of-select-list-is-not-in-gr"  >mysql - Syntax error or access violation: 1055 Expression #8 of SELECT list is not in GROUP BY clause and contains nonaggregated column </A>
+    - <A HREF="http://blog.csdn.net/yhl_jxy/article/details/53534194"  >MySql(30)------linux下安装mysql-5.7.12-linux-glibc2.5-x86_64.tar.gz(centos) </A>
+    - <A HREF="https://blog.csdn.net/bigtree_3721/article/details/77417518"  >深入理解 Mysql 锁 </A>
+    - <A HREF="https://www.cnblogs.com/wangchaozhi/p/5061378.html"  >Mysql高并发优化 </A>
+    - <A HREF="https://www.cnblogs.com/riasky/p/3367558.html"  >mysql实现随机查询 </A>
+    - <A HREF="https://cloud.tencent.com/developer/article/1004367"  >MySQL 数据库设计总结 </A>
+    - <A HREF="https://www.cnblogs.com/f-ck-need-u/p/9001061.html"  >详细分析MySQL的日志(一)  </A>
+    - <A HREF="https://www.cnblogs.com/f-ck-need-u/p/9010872.html#auto_id_1"  >详细分析MySQL事务日志(redo log和undo log) </A>
+    - <A HREF="https://blog.csdn.net/weixin_45476498/article/details/100098297"  >django.core.exceptions.ImproperlyConfigured: mysqlclient 1.3.13 or newer is required; you have 0.9.2 </A>
+    - <A HREF="https://thinkwon.blog.csdn.net/article/details/104778621"  >MySQL数据库面试题（2020最新版） </A>
+    - <A HREF="https://blog.csdn.net/weixin_34095889/article/details/89832374"  >MySQL purge 线程 </A>
+    - <A HREF="https://www.cnblogs.com/zero-gg/p/9057092.html"  >MySQL 5.7半同步复制技术 </A>
+    - <A HREF="https://www.cnblogs.com/kevingrace/p/10228694.html"  >MySQL 半同步复制模式说明及配置示例 </A>
+    - <A HREF="https://zhuanlan.zhihu.com/p/86902851"  >20道常见MySQL数据库面试题+解析 </A>
+    - <A HREF="https://www.jb51.net/article/99980.htm"  >MySQL利用procedure analyse()函数优化表结构 </A>
+    - <A HREF="https://www.cnblogs.com/workerman/articles/5213102.html"  >Mysql数据库优化工具PROCEDURE ANALYSE介绍 </A>
+    - <A HREF="https://blog.csdn.net/ty_hf/article/details/54895466"  >Mysql优化-Procedure_Analyse优化表结构 </A>
+    - <A HREF="https://www.cnblogs.com/qq78292959/p/3637135.html"  >mysqldump参数详细说明 </A>
+    - <A HREF="https://www.cnblogs.com/xu-xiaofeng/p/7673776.html"  >mysql索引 创建索引、修改索引、删除索引的命令语句 </A>
+    - <A HREF="https://blog.csdn.net/vbirdbest/article/details/82461109"  >MySQL性能优化(六)：分区 </A>
+    - <A HREF="https://www.cnblogs.com/balfish/p/9003794.html"  >MySQL前缀索引和索引选择性 </A>
+    
+    
+ - Part Two
+    - <A HREF="https://blog.csdn.net/u011277123/article/details/73497418"  >MySQL大表删除解决方案 </A>
+    - <A HREF="https://www.jb51.net/article/145889.htm"  >Innodb中mysql快速删除2T的大表方法示例 </A>
+    - <A HREF="https://blog.csdn.net/beyond__devil/article/details/78453677"  > laravel项目中出现mysql嵌套事务的分析 </A>
+    - <A HREF="https://blog.csdn.net/qq_36850813/article/details/83901899"  > mysql数据库执行mysqladmin flush-hosts方法 </A>
+    - <A HREF="https://www.cnblogs.com/oyjg/p/13049863.html"  >MyCat实现MySQL双主双从的读写分离 </A>
+    - <A HREF="https://blog.csdn.net/fsx2550553488/article/details/80575698"  >mysql主从复制和读写分离实战 </A>
+    - <A HREF="https://blog.csdn.net/wzy0623/article/details/100518636"  > MySQL Router 8 详解 </A>
+    - <A HREF="http://www.dbhelp.net/2020/05/13/mysql-router-8-0-%E5%AE%89%E8%A3%85%E5%8F%8A%E8%AF%B4%E6%98%8E.html"  >MySQL Router 8.0 安装及说明 </A>
+    - <A HREF="https://blog.51cto.com/5660061/2388925"  >mycat核心配置详解（schema.xml配置）</A>
+    - <A HREF="https://blog.csdn.net/wzy0623/article/details/81103469"  > 使用MySQL Router实现高可用、负载均衡、读写分离 </A>
+    - <A HREF="https://www.cnblogs.com/happy4java/p/11206030.html"  >使用MyCat实现MySQL读写分离 </A>
+    - <A HREF="https://www.cnblogs.com/ddzj01/p/11573842.html"  >Mysql - 读写分离与读负载均衡之Maxscale </A>
+    - <A HREF="https://www.cnblogs.com/ITGirl00/p/12234493.html"  >Mysql2docx自动生成数据库说明文档 </A>
+    - <A HREF="https://blog.csdn.net/weixin_43407305/article/details/87913240"  > mysql组复制之多主模式（全同步） </A>
+    - <A HREF="https://www.cnblogs.com/JIAlinux/p/10893553.html"  >mysql的全同步复制  </A>
+    - <A HREF="https://www.cnblogs.com/f-ck-need-u/p/9225442.html"  >MySQL高可用之组复制(4)：详细分析组复制理论 </A>
+    - <A HREF="https://blog.csdn.net/awoyaoc/article/details/81633203"  > mysql半同步复制,组复制,全同步机制 </A>
+    - <A HREF="https://www.cnblogs.com/mscm/p/13325057.html"  >MySQL数据库主从复制延时超长如何解决 </A>
+    - <A HREF="https://blog.csdn.net/hao_yunfeng/article/details/82392261"  > MySQL 主从同步延迟的原因及解决办法 </A>
+    - <A HREF="https://blog.csdn.net/guanxian1652659/article/details/88648418"  > MySQL8.0操作笔记（一） 创建数据库及用户、用户授权 </A>
+    - <A HREF="https://www.cnblogs.com/dayhand/p/11080155.html"  >MySQL之存储引擎InnoDB和MyISAM的区别及底层详解 </A>
+    - <A HREF="https://www.cnblogs.com/yanjieli/p/10996843.html"  >zabbix--监控MySQL主从状态 </A>
+    - <A HREF="https://www.cnblogs.com/01-single/p/10602610.html"  >Zabbix监控mysql主从状态并实现报警 </A>
+    - <A HREF="https://blog.csdn.net/lwei_998/article/details/50445830"  > 1209 - The MySQL server is running with the --read-only option so it cannot execute this statement </A>
+    - <A HREF="https://blog.csdn.net/wzy0623/article/details/95619837"  > MySQL 8 复制（八）——组复制安装部署 </A>
+    - <A HREF="https://dev.mysql.com/doc/refman/8.0/en/group-replication-options.html"  >MySQL :: MySQL 8.0 Reference Manual :: 18.8 Group Replication System Variables</A>
+    - <A HREF="https://www.cnblogs.com/zyxnhr/p/11161365.html"  >mysql主从之keepalive+MySQL高可用 </A>
+    - <A HREF="https://www.cnblogs.com/f-ck-need-u/p/9197442.html"  >使用MySQL组复制的限制和局限性 </A>
+    - <A HREF="https://www.mysql.com/cn/products/cluster/mysql-cluster-datasheet.pdf" > MySQL_Cluster_DataSheet_v3.doc </A>
+    - <A HREF="https://www.cnblogs.com/shamo89/p/10119271.html"  >MySql（十六）：MySql架构设计——MySQL Cluster </A>
+    
+    
+ - Part Three
+    - <A HREF="https://www.cnblogs.com/ivictor/p/5735580.html"  >MySQL半同步复制  </A>
+    - <A HREF="https://blog.csdn.net/xihuanyuye/article/details/81220524"  > mysql系列（四）异步复制、全同步复制与半同步复制 </A>
+    - <A HREF="https://help.aliyun.com/document_detail/109378.html?spm=a2c4g.11186623.6.1613.72551a41lyv6Wh"  >MySQL 5.7测试结果 性能白皮书 </A>
+    - <A HREF="https://zhuanlan.zhihu.com/p/142491549"  >MySQL 的 crash-safe 原理解析 </A>
+    - <A HREF="https://dev.mysql.com/doc/internals/en/date-and-time-data-type-representation.html"  >MySQL :: MySQL Internals Manual :: 10.9 Date and Time Data Type Representation</A>
+    - <A HREF="https://www.cnblogs.com/sdadx/p/8391985.html"  >Mysql中的force index和ignore index  </A>
+    - <A HREF="https://blog.csdn.net/ma2595162349/article/details/79449493"  >前缀索引 </A>
+    - <A HREF="http://wp.iter-cc.com/?p=924" >事务嵌套解决方案  </A>
+    - <A HREF="https://mp.weixin.qq.com/s/HbzD9esTm05yjdJBW7MlGw"  >这8种常被忽视的SQL错误用法，你有没有踩过坑</A>
+    - <A HREF="https://blog.csdn.net/qq_35642036/article/details/82820178"  > MyISAM与InnoDB 的区别（9个不同点）</A>
+    - <A HREF="https://mp.weixin.qq.com/s/8XuX9Su1qvHrMLWcQzKTaQ"  >写出好的Join语句，前提你得懂这些</A>
+    - <A HREF="https://blog.csdn.net/weixin_44671994/article/details/88992942"  >计算两经纬度之间的距离并排序 SQL语句 </A>
+    - <A HREF="https://blog.csdn.net/sinat_29774479/article/details/103470244"  >什么是索引下推 </A>
+    - <A HREF="https://cloud.tencent.com/developer/article/1129922"  >Mycat配置及使用详解 </A>
+    - <A HREF="https://www.cnblogs.com/kingsonfu/p/10627285.html"  >Mycat 配置文件server.xml </A>
+    - <A HREF="https://www.cnblogs.com/linjiqin/p/7928573.html"  >MyCat配置文件详解--server.xml </A>
+    - <A HREF="https://github.com/MyCATApache/Mycat2/blob/main/mycat2/src/main/resources/server.json"  >Mycat2/server.json at main · MyCATApache/Mycat2</A>
+    - <A HREF="https://github.com/MyCATApache/Mycat2/wiki/%5B%E9%85%8D%E7%BD%AE%5Dschema"  >配置 schema · MyCATApache/Mycat2 Wiki</A>
+    - <A HREF="https://www.jianshu.com/p/8845ddca3b23"  >MVCC多版本并发控制 </A>
+    - <A HREF="https://www.cnblogs.com/justfortaste/p/5054368.html"  >savepoint原理 </A>
+    
+    
+   
