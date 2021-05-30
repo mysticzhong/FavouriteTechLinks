@@ -51,7 +51,6 @@
      - <A HREF="http://www.jb51.net/article/51601.htm"  >PHP中MongoDB数据库的连接、添加、修改、查询、删除等操作实例 </A>
      - <A HREF="http://blog.csdn.net/iefreer/article/details/18876707"  >PHP：运行错误undefined imagecreatefromjpeg和undefined exif_imagetype </A>
      - <A HREF="http://v.youku.com/v_show/id_XNDI5NjQzNDI0.html"  >Sphinx安装与测试 </A>
-     - <A HREF="https://.com/q/1010000007111882"  >编译php7后，如何让apache支持php7 </A>
      - <A HREF="https://www.cnblogs.com/wellsoho/p/5166467.html"  >php中并发读写文件冲突的解决方案(文件锁应用示例) </A>
      - <A HREF="https://mp.weixin.qq.com/s?__biz=MzIwNDExMjIzNA==&mid=2650183029&idx=1&sn=ce0a679f0d2c3f8f583f72ed82528e0e&scene=21#wechat_redirect"  >写在PHP8发布之前的话</A>
      - <A HREF="https://cloud.tencent.com/developer/article/1464303"  >国内 PHP Composer 镜像列表 </A>
@@ -61,7 +60,6 @@
     
  - Part Three
      - <A HREF="https://blog.csdn.net/zhang197093/article/details/52216081"  > php多进程读写同一个文件锁的问题及flock详解 </A>
-     - <A HREF="https://.com/q/1010000002489773"  >PHP在业务批量操作时如何保证原子性  </A>
      - <A HREF="https://blog.csdn.net/ycdyx/article/details/50787349"  > php-fpm的静态和动态执行方式比较 </A>
      - <A HREF="https://www.cnblogs.com/yuanwanli/p/13060340.html"  >PHP内存泄漏分析定位 </A>
      - <A HREF="http://www.thinkphp.cn/topic/59886.html" >TP5.1.28 链接MyCat异常 </A>
@@ -70,7 +68,6 @@
      - <A HREF="https://learnku.com/docs/psr/psr-4-autoloader/1608"  >PSR-4 自动加载规范 </A>
      - <A HREF="https://wiki.swoole.com/wiki/page/487.html" >学习Swoole需要掌握哪些基础知识 </A>
      - <A HREF="https://blog.csdn.net/TiaoZhanJi_Xian/article/details/70861156"  >swoole+websocket+html5实现的简易版直播功能 </A>
-     - <A HREF="https://download./download/chen791652232/10265429"  >swoole2.0 用websocket协议实现简单的视频直播 </A>
      - <A HREF="http://www.yiichina.com/question/1077"  >能好好说说Yii2-ueditor-widget的使用方法吗</A>
      - <A HREF="http://www.yiichina.com/extension/342"  >Yii2-ueditor-widget扩展</A>
      - <A HREF="http://www.cnblogs.com/javawebsoa/archive/2013/05/30/3108976.html"  >仿新浪微博项目需求,及数据库建设 </A>
@@ -80,7 +77,6 @@
      - <A HREF="http://laravelacademy.org/post/769.html"  >深入理解控制反转（IoC）和依赖注入（DI）</A>
      - <A HREF="https://blog.csdn.net/bomb_2002/article/details/51577793"  >Yii2 - Gii使用：Module Generator </A>
      - <A HREF="https://www.easyswoole.com/Cn/HttpServer/global.html"  >EasySwoole 全局变量</A>
-     - <A HREF="https://.com/a/1190000021187680?utm_source=tag-newest"  >swoole之session的实现  </A>
      - <A HREF="https://wiki.swoole.com/#/getting_started/extension"  >扩展冲突-Swoole4</A>
      - <A HREF="http://www.tuicool.com/articles/vyIRBbB"  >下载量最高 100 个 Laravel 扩展包推荐 </A>
      - <A HREF="http://blog.csdn.net/glovenone/article/details/52438239"  >Laravel5 (cli)命令行执行脚本及定时任务 </A>
