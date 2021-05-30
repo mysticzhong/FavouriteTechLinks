@@ -4,7 +4,6 @@
     - <A HREF="http://help.dedecms.com/install-use/server/2011/0803/969.html"  >Linux下如何启用MySQL数据库远程访问</A>
     - <A HREF="http://yuweibing.blog.51cto.com/3879355/1744390"  >mysql 之 主从同步（单向同步和双向同步） </A>
     - <A HREF="https://blog.csdn.net/iehadoop/article/details/82961311"  >Ubuntu 18.04安装MySQL8.0数据库  </A>
-    - <A HREF="https://.com/a/1190000003716617?utm_source=tag-newest"  >MySQL读写分离介绍及搭建 </A>
     - <A HREF="https://stackoverflow.com/questions/36228836/syntax-error-or-access-violation-1055-expression-8-of-select-list-is-not-in-gr"  >mysql - Syntax error or access violation: 1055 Expression #8 of SELECT list is not in GROUP BY clause and contains nonaggregated column </A>
     - <A HREF="http://blog.csdn.net/yhl_jxy/article/details/53534194"  >MySql(30)------linux下安装mysql-5.7.12-linux-glibc2.5-x86_64.tar.gz(centos) </A>
     - <A HREF="https://blog.csdn.net/bigtree_3721/article/details/77417518"  >深入理解 Mysql 锁 </A>
