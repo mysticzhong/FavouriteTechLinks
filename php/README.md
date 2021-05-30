@@ -1,0 +1,90 @@
+ - Part One
+     - <A HREF="http://www.jb51.net/article/49871.htm"  >PHP批量检测并去除文件BOM头代码实例</A>
+     - <A HREF="http://blog.csdn.net/u013372487/article/details/51994898"  >linux系统下安装php的pcntl扩展 </A>
+     - <A HREF="http://blog.csdn.net/samxx8/article/details/11138189"  >pcntl_fork实现PHP多进程 </A>
+     - <A HREF="http://www.cnblogs.com/terryguan/p/6599788.html"  >查看php-fpm开启的进程数以及每个进程的内存限制 </A>
+     - <A HREF="http://blog.jobbole.com/95657/"  >让 PHP7 达到最高性能的几个建议 </A>
+     - <A HREF="http://blog.csdn.net/zhulike2011/article/details/46944459"  >PHP判断是否命令行运行的最好办法 </A>
+     - <A HREF="http://www.laruence.com/2015/06/19/3063.html"  >让你的PHP7更快(GCC PGO) </A>
+     - <A HREF="http://www.tuicool.com/articles/3e67nqz"  >PHP OCR实战：用Tesseract从图像中读取文字 </A>
+     - <A HREF="http://www.thinkphp.cn/topic/26803.html"  >ThinkPHP3.2.3升级的若干问题和注意事项</A>
+     - <A HREF="http://document.thinkphp.cn/manual_3_2.html#sql_build_cache" >SQL解析缓存</A>
+     - <A HREF="https://docs.golaravel.com/docs/5.4/queues/#supervisor-configuration" >Laravel 的队列系统介绍  </A>
+     - <A HREF="https://www.jianshu.com/p/b54558a4aa34"  >ElasticSearch+PHP基本使用 </A>
+     - <A HREF="https://www.cnblogs.com/rxbook/p/6728911.html"  >php用正则匹配出图片img标签中的src路径 </A>
+     - <A HREF="https://www.kancloud.cn/manual/thinkphp6_0/1359700"  >Swoole · ThinkPHP6.0完全开发手册</A>
+     - <A HREF="https://wiki.swoole.com/wiki/"  >Swoole文档中心</A>
+     - <A HREF="https://www.kancloud.cn/manual/thinkphp6_0/1037622"  >远程调试 · ThinkPHP6.0完全开发手册</A>
+     - <A HREF="https://www.jb51.net/article/163391.htm"  >PHP进阶学习之依赖注入与Ioc容器详解 </A>
+     - <A HREF="https://mp.weixin.qq.com/s/8WlLZWbm6Nsl_Ij3soUrgQ"  >PHP丨底层分析</A>
+     - <A HREF="https://www.cnblogs.com/lamp01/p/8985068.html"  >PHP7开启opcache打造强悍性能 </A>
+     - <A HREF="https://www.jianshu.com/p/582b683a26a2"  >PHP - 性能加速 - 开启Opcache </A>
+     - <A HREF="https://www.jianshu.com/p/b430d0abad0e"  >使用php-fpm还是php-cgi，使用tcp还是socket </A>
+     - <A HREF="https://blog.csdn.net/njrclj/article/details/85062459"  >PHP-FPM及其三种运行方式 </A>
+     - <A HREF="http://www.laruence.com/2015/12/04/3086.html"  >让PHP7达到最高性能的几个Tips </A>
+     - <A HREF="https://www.jb51.net/article/171678.htm"  >解决在Laravel 中处理OPTIONS请求的问题 </A>
+     - <A HREF="https://www.cnblogs.com/super-zhangkun/p/12341690.html"  >ThinkPHP6.0在phpstorm添加查询构造器和模型的代码提示  </A>
+     - <A HREF="https://zhidao.baidu.com/question/320160670.html"  >php编译完成后，怎样把gd库追加编译进php </A>
+     - <A HREF="https://blog.csdn.net/crazy22222/article/details/82791194"  >thinkphp 报错：Call to undefined function think\captcha\imagettftext()  </A>
+    
+    
+ - Part Two
+     - <A HREF="http://www.kuitao8.com/20140727/2867.shtml"  >file_get_contents("php://input")的使用方法 </A>
+     - <A HREF="http://www.cnblogs.com/jicki/p/5546925.html"  >CentOSx64 安装 Gearmand 和 Gearman php扩展  </A>
+     - <A HREF="https://www.cnblogs.com/8000cabbage/p/7791670.html"  >CentOS7 php 安装 amqp扩展 </A>
+     - <A HREF="https://www.cnblogs.com/miketwais/p/RabbitMQ.html"  >初识RabbitMQ,附RabbitMQ+PHP演示实例 </A>
+     - <A HREF="https://blog.csdn.net/eric6/article/details/5899914"  >PHP的iconv()函数遇到的错误: Detected an illegal character in input string </A>
+     - <A HREF="https://www.jb51.net/article/61937.htm" >PHP树的深度编历生成迷宫及A*自动寻路算法实例分析 </A>
+     - <A HREF="http://www.vephp.com/jiaocheng/168.html"  >qhQrCodeReader组件：PHP检测图片中是否含有二维码，以及二维码识别解析 </A>
+     - <A HREF="https://9iphp.com/web/php/761.html"  >介绍一种PHP中数组转json编码而不转义中文字符和/的方法 </A>
+     - <A HREF="https://www.v2ex.com/t/498336"  >PHP 解析微信用户信息昵称中有特殊字符</A>
+     - <A HREF="https://learnku.com/articles/20714"  >PHP 高级工程面试题汇总 </A>
+     - <A HREF="https://www.cnblogs.com/laowenBlog/p/6067800.html"  >PHP 配置文件详解（php.ini 详解 )  </A>
+     - <A HREF="http://www.php.cn/php-weizijiaocheng-390988.html"  >php.ini中的常用配置详解 </A>
+     - <A HREF="https://www.cnblogs.com/wangzhaobo/articles/9205371.html"  >php 高级研发工程师面试题总结 </A>
+     - <A HREF="https://www.jianshu.com/p/06647c92121b"  >Yii2.0.12升级到PHP7.2可用版本 </A>
+     - <A HREF="http://www.cnblogs.com/rereadyou/p/3448381.html"  >使用 OAuth2-Server-php 在 Yii 框架上搭建 OAuth2 Server </A>
+     - <A HREF="https://www.cnblogs.com/hanyouchun/p/5074923.html"  >PHP用抛物线的模型实现微信红包生成算法的程序源码 </A>
+     - <A HREF="http://www.cnblogs.com/hubing/p/3735452.html"  >php编译参数注解 </A>
+     - <A HREF="http://bighow.org/3796532-MongoDB_aggregate_query_using_PHP_driver.html" >MongoDB aggregate query using PHP driver </A>
+     - <A HREF="https://www.freehao123.com/hhvm-php/"  >HHVM安装使用教程-高效的PHP运行环境提升PHP性能9倍以上 </A>
+     - <A HREF="http://www.jb51.net/article/51601.htm"  >PHP中MongoDB数据库的连接、添加、修改、查询、删除等操作实例 </A>
+     - <A HREF="http://blog.csdn.net/iefreer/article/details/18876707"  >PHP：运行错误undefined imagecreatefromjpeg和undefined exif_imagetype </A>
+     - <A HREF="http://v.youku.com/v_show/id_XNDI5NjQzNDI0.html"  >Sphinx安装与测试 </A>
+     - <A HREF="https://.com/q/1010000007111882"  >编译php7后，如何让apache支持php7 </A>
+     - <A HREF="https://www.cnblogs.com/wellsoho/p/5166467.html"  >php中并发读写文件冲突的解决方案(文件锁应用示例) </A>
+     - <A HREF="https://mp.weixin.qq.com/s?__biz=MzIwNDExMjIzNA==&mid=2650183029&idx=1&sn=ce0a679f0d2c3f8f583f72ed82528e0e&scene=21#wechat_redirect"  >写在PHP8发布之前的话</A>
+     - <A HREF="https://cloud.tencent.com/developer/article/1464303"  >国内 PHP Composer 镜像列表 </A>
+     - <A HREF="https://www.v2ex.com/t/548818"  >ThinkPHP Swoole 不能用 $_SESSION，用 SwooleHttpd 解决</A>
+     - <A HREF="https://blog.csdn.net/qq_33854340/article/details/100159624"  >tp队列thinkphp-queue使用笔记 </A>
+    
+    
+ - Part Three
+     - <A HREF="https://blog.csdn.net/zhang197093/article/details/52216081"  > php多进程读写同一个文件锁的问题及flock详解 </A>
+     - <A HREF="https://.com/q/1010000002489773"  >PHP在业务批量操作时如何保证原子性  </A>
+     - <A HREF="https://blog.csdn.net/ycdyx/article/details/50787349"  > php-fpm的静态和动态执行方式比较 </A>
+     - <A HREF="https://www.cnblogs.com/yuanwanli/p/13060340.html"  >PHP内存泄漏分析定位 </A>
+     - <A HREF="http://www.thinkphp.cn/topic/59886.html" >TP5.1.28 链接MyCat异常 </A>
+     - <A HREF="https://www.php.cn/php-weizijiaocheng-386474.html"  >Laravel中间件(Middleware)的核心解读 </A>
+     - <A HREF="https://learnku.com/docs/psr/psr-2-coding-style-guide/1606"  >PSR-2 编码风格规范 </A>
+     - <A HREF="https://learnku.com/docs/psr/psr-4-autoloader/1608"  >PSR-4 自动加载规范 </A>
+     - <A HREF="https://wiki.swoole.com/wiki/page/487.html" >学习Swoole需要掌握哪些基础知识 </A>
+     - <A HREF="https://blog.csdn.net/TiaoZhanJi_Xian/article/details/70861156"  >swoole+websocket+html5实现的简易版直播功能 </A>
+     - <A HREF="https://download./download/chen791652232/10265429"  >swoole2.0 用websocket协议实现简单的视频直播 </A>
+     - <A HREF="http://www.yiichina.com/question/1077"  >能好好说说Yii2-ueditor-widget的使用方法吗</A>
+     - <A HREF="http://www.yiichina.com/extension/342"  >Yii2-ueditor-widget扩展</A>
+     - <A HREF="http://www.cnblogs.com/javawebsoa/archive/2013/05/30/3108976.html"  >仿新浪微博项目需求,及数据库建设 </A>
+     - <A HREF="http://www.yiibai.com/yii2/yii_modules.html"  >Yii模块(Modules) </A>
+     - <A HREF="https://group.swoole.com/question/107083"  >使用Swoole 异步客户端连接域名地址如何设置</A>
+     - <A HREF="https://wiki.swoole.com/#/runtime"  >一键协程化 </A>
+     - <A HREF="http://laravelacademy.org/post/769.html"  >深入理解控制反转（IoC）和依赖注入（DI）</A>
+     - <A HREF="https://blog.csdn.net/bomb_2002/article/details/51577793"  >Yii2 - Gii使用：Module Generator </A>
+     - <A HREF="https://www.easyswoole.com/Cn/HttpServer/global.html"  >EasySwoole 全局变量</A>
+     - <A HREF="https://.com/a/1190000021187680?utm_source=tag-newest"  >swoole之session的实现  </A>
+     - <A HREF="https://wiki.swoole.com/#/getting_started/extension"  >扩展冲突-Swoole4</A>
+     - <A HREF="http://www.tuicool.com/articles/vyIRBbB"  >下载量最高 100 个 Laravel 扩展包推荐 </A>
+     - <A HREF="http://blog.csdn.net/glovenone/article/details/52438239"  >Laravel5 (cli)命令行执行脚本及定时任务 </A>
+     - <A HREF="https://laravelacademy.org/post/8484.html"  >进阶系列 —— 定时任务调度在 Laravel 中的实现 </A>
+     - <A HREF="https://d.laravel-china.org/docs/5.4/passport#password-grant-tokens"  >Laravel 的 API 认证系统 </A>
+    
+    
